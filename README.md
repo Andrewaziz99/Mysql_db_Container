@@ -1,10 +1,10 @@
 # <h1>Mysql_db_With_Python</h1>
 
-<pre>Simple docker Project, Allow to access mysql database from python.
+<p>Simple docker Project, Allow to access mysql database from python.
      Can Insert values, show table's data and also can create new databases and tables.
      In this project I used docker image <b>'Mysql'</b> and python library <b>'mysql.connector.python'</b>
      It is not a volatile project, it will store data in your local machine.
-</pre>
+</p>
 
 <hr>
 
