@@ -29,4 +29,3 @@
 4. Edit this line : mycursor.execute("CREATE TABLE customers (name VARCHAR(255), address VARCHAR(255))") --> Change <b>'customers'</b> to your table name
 5. Save the file and run command <b>'python3 main.py'</b> in terminal
 </pre>
-# Mysql_db_Container
