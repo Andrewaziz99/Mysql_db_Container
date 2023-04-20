@@ -13,9 +13,10 @@
 <pre>
 1. Clone this project
 2. Open terminal and go to project directory
-3. Run command <b>'docker run -v $PWD:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=my-secret-pw  -p 4444:3306 -d mysql'</b>  --> This command will run mysql docker image on port 4444 and in the cuurent directory in the background.
-4. Open another terminal and go to project directory
-5. Run command <b>'python3 main.py'</b>
+3. Pull Docker image <b>docker pull mysql</b>
+4. Run command <b>'docker run -v $PWD:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=my-secret-pw  -p 4444:3306 -d mysql'</b>  --> This command will run mysql docker image on port 4444 and in the cuurent directory in the background.
+5. Open another terminal and go to project directory
+6. Run command <b>'python3 main.py'</b>
 </pre>
 
 <hr>
